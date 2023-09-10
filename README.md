@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi my name is Jacob and i am a new Software Developer. 
 <!--
 **jacobsibert/jacobsibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
